@@ -1,0 +1,28 @@
+#head{
+	background-color: #666699c9;
+	height: 30px;
+	padding-left: 2%;
+}
+.lc{
+	float: left;
+	width: 46%;
+	background-color: skyblue;
+	height: 300px;
+	padding: 2%;
+
+}
+.rc{
+	float: left;
+	width: 46%;
+	background-color: #4242b666;
+	height: 300px;
+	padding: 2%;
+}
+.clear{
+	clear: both;
+}
+.foot{
+	height: 30px;
+	background-color: #669;
+	padding-top: 5%;
+}
