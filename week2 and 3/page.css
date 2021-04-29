@@ -1,0 +1,87 @@
+body{
+	margin: 0px;
+}
+.logo{
+	float: left;
+	width: 42%;
+	background-color: blue;
+	font-size: 20px;
+	height: 50px;
+	padding: 4%;
+    margin-bottom: 0.5%; 
+
+}
+.email{
+	float: left;
+	width: 42%;
+	background-color: green;
+	font-size: 20px;
+	height: 50px;
+	padding: 4%;
+	margin-bottom: 0.5%; 
+}
+
+.clear{
+	clear: both;
+}
+nav{
+	height: 30px;
+	margin: 0px;
+	background-color: red;
+}
+#fm{
+	float: left;
+	background-color: yellow;
+	margin: 5px;
+	padding: 1px 2px 3px 4px;
+	
+}	
+
+#sm{
+	float: left;
+	background-color: yellow;
+	margin: 5px;
+	padding: 1px 2px 3px 4px;
+}
+#tm{
+	float: left;
+	background-color: yellow;
+	margin: 5px;
+	padding: 1px 2px 3px 4px;
+}
+#fom{
+	float: left;
+	background-color: yellow;
+	margin: 5px;
+	padding: 1px 2px 3px 4px;
+}
+
+.clear{
+	clear: both;
+}
+.left{
+	float: left;
+	background-color: blue;
+	width: 22%;
+	height: 50px;
+	padding: 4%;
+	margin-top: 0.5%;
+
+}
+
+.right{
+	float: left;
+	width: 62%;
+	background-color: green;
+	height: 50px;
+	padding: 4%;
+	margin-top: 0.5%;
+}
+.foot{
+	background-color: yellow;
+	height: 50px;
+	padding: 4%;
+	margin-top: 0.5%;
+	width: 100%;
+
+}
