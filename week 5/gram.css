@@ -1,0 +1,42 @@
+header{
+	margin-top: 15px;
+	text-align: center;
+	background-color: white;
+	font-family: cursive;
+	font-size: 30px;
+	width: 100%;
+}
+body{
+	background-color: skyblue;
+	margin: 0;
+	padding: 0;
+}
+.title1{
+   	padding-top: 4%;
+	padding-left: 35%;
+    margin-bottom: 20px;
+}
+.responsive{
+	display: flex;
+	bottom: 0;
+	background-color: white;
+}
+div .gallery{
+    background-color: white;
+}
+.gallery img{
+	margin: 1px;
+	width: 158px;
+	height: 101px;
+}
+.gallery .desc{
+	margin: 1px;
+	background-color: darkgrey;
+	margin-top: -5px;
+}
+
+@media screen and (max-width:500px){
+	body{
+		background-color: red;
+}
+}

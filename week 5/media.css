@@ -1,0 +1,43 @@
+.head{
+	background-color: blue;
+	text-align: center;
+	font-size: 20px;
+	padding: 3%;
+	color: white;
+}
+.nav{
+	background-color: darkblue;
+	color: white;
+	text-align: center;
+	margin: 0px;
+	padding: 2%;
+}
+.left{
+	background-color: lightblue;
+	width: 70%;
+	padding-top: 20%;
+	text-align: center;
+	color: white;
+
+	
+}
+.right{
+	background-color: darkgrey;
+	width: 30%;
+	padding-top: 20%;
+	text-align: center;
+	color: white;
+}
+.main{
+	display: flex; flex-direction: row;
+	height: 400px;
+}
+.footer{
+	background-color: skyblue;
+	padding: 2%;
+}
+@media screen and (max-width : 500px){
+	body{
+		background : red;
+	}
+}
